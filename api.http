@@ -1,0 +1,9 @@
+@hostname = localhost
+@port = 3000
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+
+### 
+# @name findPrimeMedium
+
+GET http://{{host}}/median-primes/57
