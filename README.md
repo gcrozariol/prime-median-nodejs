@@ -14,7 +14,7 @@ Make sure you have the following installed on your local machine:
 **Clone the repository:**
 
 ```sh
-git clone <repository_url>
+git clone https://github.com/gcrozariol/prime-median-nodejs.git
 cd prime-median
 ```
 
