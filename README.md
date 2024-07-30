@@ -72,12 +72,15 @@ http://localhost:3000/median-primes/10
 ## Notes
 
 - The project uses the Sieve of Eratosthenes algorithm to efficiently find all prime numbers less than the given upper limit.
-
 - Input validation is performed using Zod to ensure the input is an integer greater than 2.
+
+<br />
 
 ## Troubleshooting
 
 If you encounter issues with pulling the `node:18-alpine` image, ensure you have internet connectivity and Docker is running properly. You can also try using a different Node.js image tag, such as `node:18-slim`.
+
+<br />
 
 ## License
 
